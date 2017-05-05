@@ -10,10 +10,8 @@ layout: Doc
 
 # Serverless AWS Provider Documentation
 
-Welcome to the Serverless Amazon Web Services documentation!
+左の項目を選択してください。
 
-Please select a section on the left to get started.
+もし疑問があれば、[gitterのチャットで質問](https://gitter.im/serverless/serverless)もしくは[フォーラムに投稿](https://gitter.im/serverless/serverless)してください。
 
-If you have questions, join the [chat in gitter](https://gitter.im/serverless/serverless) or [post over on the forums](https://gitter.im/serverless/serverless)
-
-**Note:** Before continuing [AWS system credentials](./guide/credentials.md) are required for using the CLI.
+**注意:** CLIを使用する前に後続の[AWS 資格情報](./guide/credentials.md)を見てください。
