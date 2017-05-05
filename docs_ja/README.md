@@ -15,6 +15,7 @@ menuItems:
 # Documentation
 
 The Serverless Framework allows you to deploy auto-scaling, pay-per-execution, event-driven functions to any cloud. We currently support AWS Lambda, Apache OpenWhisk, Microsoft Azure, and are expanding to support other cloud providers.
+Serverlessフレームワークは「」を可能にする。
 
 <div class="docsSections">
   <div class="docsSection">
