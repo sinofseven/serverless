@@ -10,8 +10,8 @@ layout: Doc
 
 # Serverless Infrastructure Providers
 
-Providers are where your serverless functions run in the cloud.
+クラウド上でサーバーレスファンクションを実行するプロバイダー。
 
-Under the hood, the serverless framework is deploying your code to a cloud provider like Amazon web services or Google Cloud functions.
+serverlessフレームワークは―― Amazon Web ServiceやGoogle Cloudなどの――クラウドサービスにデプロイを行います。
 
-You specify your provider in your services `serverless.yml` file under the `provider` key.
+`serverless.yml`ファイルの`provider`キーでクラウドサービスを指定します。
