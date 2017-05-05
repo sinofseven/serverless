@@ -14,7 +14,7 @@ menuItems:
 
 # Documentation
 
-Serverlessフレームワークは――オートスケール、実行に対して支払いを行う、イベント駆動――ファンクションのデプロイを可能にする。現在、AWS Lambda, Apache OpenWhisk, Microsoft Azureに対応し、その他クラウドサービスに関しても対応を進めている。
+Serverlessフレームワークは――オートスケール、実行に対する支払い、イベント駆動に対応した――ファンクションのデプロイを可能にする。現在、AWS Lambda, Apache OpenWhisk, Microsoft Azureに対応し、その他クラウドサービスに関しても対応を進めている。
 
 <div class="docsSections">
   <div class="docsSection">
