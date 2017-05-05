@@ -14,8 +14,7 @@ menuItems:
 
 # Documentation
 
-The Serverless Framework allows you to deploy auto-scaling, pay-per-execution, event-driven functions to any cloud. We currently support AWS Lambda, Apache OpenWhisk, Microsoft Azure, and are expanding to support other cloud providers.
-Serverlessフレームワークは「」を可能にする。
+Serverlessフレームワークは――オートスケール、実行に対して支払いを行う、イベント駆動――ファンクションのデプロイを可能にする。現在、AWS Lambda, Apache OpenWhisk, Microsoft Azureに対応し、その他クラウドサービスに関しても対応を進めている。
 
 <div class="docsSections">
   <div class="docsSection">
@@ -26,19 +25,19 @@ Serverlessフレームワークは「」を可能にする。
     </div>
     <div class="test">
       <ul>
-        <li><a href="./providers/aws/guide/intro.md">Intro</a></li>
-        <li><a href="./providers/aws/guide/installation.md">Installation</a></li>
-        <li><a href="./providers/aws/guide/credentials.md">Credentials</a></li>
-        <li><a href="./providers/aws/guide/services.md">Services</a></li>
-        <li><a href="./providers/aws/guide/functions.md">Functions</a></li>
-        <li><a href="./providers/aws/guide/events.md">Events</a></li>
-        <li><a href="./providers/aws/guide/resources.md">Resources</a></li>
-        <li><a href="./providers/aws/guide/deploying.md">Deploying</a></li>
-        <li><a href="./providers/aws/guide/testing.md">Testing</a></li>
-        <li><a href="./providers/aws/guide/variables.md">Variables</a></li>
-        <li><a href="./providers/aws/guide/packaging.md">Packaging</a></li>
+        <li><a href="./providers/aws/guide/intro.md">イントロ</a></li>
+        <li><a href="./providers/aws/guide/installation.md">インストール</a></li>
+        <li><a href="./providers/aws/guide/credentials.md">資格情報</a></li>
+        <li><a href="./providers/aws/guide/services.md">サービス</a></li>
+        <li><a href="./providers/aws/guide/functions.md">ファンクション</a></li>
+        <li><a href="./providers/aws/guide/events.md">イベント</a></li>
+        <li><a href="./providers/aws/guide/resources.md">リソース</a></li>
+        <li><a href="./providers/aws/guide/deploying.md">デプロイ</a></li>
+        <li><a href="./providers/aws/guide/testing.md">テスト</a></li>
+        <li><a href="./providers/aws/guide/variables.md">変数</a></li>
+        <li><a href="./providers/aws/guide/packaging.md">パッケージング</a></li>
         <li><a href="./providers/aws/guide/iam.md">IAM</a></li>
-        <li><a href="./providers/aws/guide/plugins.md">Plugins</a></li>
+        <li><a href="./providers/aws/guide/plugins.md">プラグイン</a></li>
         <li><a href="./providers/aws/guide/workflow.md">Workflow</a></li>
         <li><a href="./providers/aws/guide/serverless.yml.md">Serverless.yml</a></li>
       </ul>
